@@ -1,4 +1,5 @@
-# TTTGAME@@ -16,8 +16,6 @@ We will be making a Tic Tac Toe game using all of these concepts.
+# TTTGAME@@
+-16,8 +16,6 @@ We will be making a Tic Tac Toe game using all of these concepts.
 
 * Fork and clone this repository.
 
